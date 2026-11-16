@@ -1,0 +1,33 @@
+# Set default behavior to automatically normalize line endings
+* text=auto eol=lf
+
+# Explicitly declare text files you want to always be normalized and converted
+*.kt text
+*.kts text
+*.java text
+*.xml text
+*.json text
+*.md text
+*.properties text
+*.pro text
+*.toml text
+*.txt text
+
+# Shell scripts and wrappers
+gradlew text eol=lf
+*.sh text eol=lf
+gradlew.bat text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.webp binary
+*.jar binary
+*.keystore binary
+*.jks binary
+*.apk binary
+*.aab binary

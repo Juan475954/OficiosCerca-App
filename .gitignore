@@ -1,0 +1,56 @@
+# ====================================================================
+# .gitignore para OficiosCerca (Android / Kotlin / Gradle / Studio)
+# ====================================================================
+
+# 1. Compilación y Caché de Gradle
+.gradle/
+build/
+*/build/
+bin/
+out/
+.kotlin/
+
+# 2. Configuración y Archivos de Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.idea
+/captures/
+.externalNativeBuild/
+.cxx/
+/cmake/
+
+# 3. Archivos locales y SDK de Android
+local.properties
+/local.properties
+
+# 4. Archivos de Entorno, Claves y Secretos (CRÍTICO)
+.env
+.env.local
+.env.*.local
+*.env
+debug.keystore
+my-upload-key.jks
+*.keystore
+*.jks
+google-services.json
+firebase-appcheck-debug.token
+
+# 5. Paquetes y Binarios compilados
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# 6. Reportes y Registros
+*.log
+lint-report*.html
+lint-report*.xml
+
+# 7. Archivos de Sistema Operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
