@@ -4,6 +4,9 @@
 
 ### Plataforma Móvil para la Conexión, Contratación y Seguimiento de Servicios del Hogar
 
+# OficiosCerca-App
+Aplicación móvil para conectar clientes con trabajadores independientes de servicios para el hogar.
+
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
@@ -297,3 +300,6 @@ El estado legal y licenciamiento definitivo de este proyecto se encuentra en pro
 <div align="center">
 <b>OficiosCerca — Conectando la confianza de tu hogar con los mejores oficios.</b>
 </div>
+
+
+
